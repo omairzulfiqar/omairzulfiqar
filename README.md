@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wyvern91
+- 👋 Hi, I’m @omairzulfiqar
 - 👀 I’m interested in robotics, embeddedC, linux
 - 🌱 I’m currently learning robotics
 - 💞️ I’m looking to collaborate on robotics
